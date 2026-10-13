@@ -1,0 +1,13 @@
+{
+    "version": "3.0.0",
+    "device_id": "DeskBot_Unit_01",
+    "ai_delays": {
+        "slouch_delay": 5,
+        "drowsy_delay": 3,
+        "phone_delay": 5
+    },
+    "aws": {
+        "endpoint": "a21v06g95kktaa-ats.iot.us-east-1.amazonaws.com",
+        "port": 8883
+    }
+}

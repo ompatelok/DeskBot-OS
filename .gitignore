@@ -1,0 +1,26 @@
+﻿# --- Build Artifacts & Caches ---
+build/
+**/build/
+.gradle/
+**/.gradle/
+.idea/
+**/.idea/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.cxx/
+**/.cxx/
+local.properties
+
+# --- GitHub File Size Limit (> 100MB) & Archives ---
+*.mp4
+*.zip
+*.exe
+04_Docs_and_Media/Demo_Videos/
+04_Docs_and_Media/Release_Binaries/
+
+# --- Credentials & Secrets ---
+**/certs/*.key
+**/certs/*.pem
+**/secrets.h

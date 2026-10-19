@@ -24,3 +24,7 @@ local.properties
 **/certs/*.key
 **/certs/*.pem
 **/secrets.h
+
+01_AI_Engine/certs/
+01_AI_Engine/deskbot_config.json
+verify_repo_security.py
